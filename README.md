@@ -22,7 +22,10 @@ Questions
 
 
 # Screenshots
-
+Running the Command-Line Application
+![Testing Generator Image](./assets/Running-READMEGenerator.png)
+![README That Was Generated When Testin The Comand-Line Application](./assets/Generated-README.png)
 
 
 # Repository Links
+https://github.com/mejiak7/GenMyREADME.git
